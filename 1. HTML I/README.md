@@ -36,13 +36,17 @@
 
 </html>
 ```
-8. ```HTML
+8. Orderered list
+
+```HTML
 <un>
 <li> </li>  
- </un>
- <ol>
+</un>
+<ol>
 <li> </li>  
-</ol>
-10. <a href = "link">name</a>
-11. <table> <tr> <td> cell </td> </tr> </table>
-12. <form> <label> <input /> </label> </form>```
+</ol>```
+ ```HTML<a href = "link">```
+   name```HTML</a>```
+ ```HTML<table> <tr> <td>``` cell ```HTML</td> </tr> </table>```
+ ```HTML<form> <label> <input /> </label> </form>
+ ```
