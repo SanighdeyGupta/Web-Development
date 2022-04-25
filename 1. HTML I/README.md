@@ -36,12 +36,13 @@
 
 </html>
 ```
-8. ```HTML<un>
-<li> </li> --> <!--unordered list-->
-</un>
-9. <ol>
-<li> </li> --> <!--ordered list-->
+8. ```HTML
+<un>
+<li> </li>  
+ </un>
+ <ol>
+<li> </li>  
 </ol>
-10. <a href = "link">name</a> --> anchor tag to link a web page
-11. <table> <tr> <td> cell </td> </tr> </table> --> <!--table tag-->
-12. <form> <label> <input /> </label> </form>``` --> form tag
+10. <a href = "link">name</a>
+11. <table> <tr> <td> cell </td> </tr> </table>
+12. <form> <label> <input /> </label> </form>```
