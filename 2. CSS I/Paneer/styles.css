@@ -1,0 +1,47 @@
+/*Tag selectors*/
+h1{
+  color: yellow;
+  font-size:100px;
+}
+
+p{
+  color: red;
+}
+
+body{
+  background-color: lightblue;
+}
+
+img:hover{
+  background-color: gold;
+}
+
+/*img{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
+*/
+
+/*Class selectors*/
+.broccoli{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
+
+.circle{
+  border-radius: 100%;
+}
+
+.Paneer{
+  height: 100px;
+  width: 100px;
+  background-color: green;
+}
+
+/*Id selector*/
+#heading1{
+  background-color: black;
+  width: 45%;
+}
